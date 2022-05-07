@@ -52,7 +52,7 @@ const Navbar = (props) => {
               Resume
             </Text>
           </Link>
-          <Link href="https://github.com/tarzan114/portfolio" isExternal display="inline-flex" alignItems={"center"} style={{gap: 3}}>
+          <Link href="https://github.com/tarnar114/tarnar114.github.io/tree/master" isExternal display="inline-flex" alignItems={"center"} style={{gap: 3}}>
             <AiFillGithub/>
             <Text fontSize="md" fontWeight={"semibold"}>
               Source
