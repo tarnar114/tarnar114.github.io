@@ -21,8 +21,8 @@ const Projects = () => {
             thumbnail={OHM}
           />
           <GridItem
-            children="Only Happy Mistakes"
-            href="https://github.com/tiwaojo/Only-Happy-Mistakes-OHMs-"
+            children="SDN DDoS mitigation system"
+            href="https://github.com/tarnar114/SDN"
             title="SDN DDoS mitigation system"
             thumbnail={Mininet}
           />
