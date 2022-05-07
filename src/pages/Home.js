@@ -115,7 +115,7 @@ const Home = (props) => {
         </Heading>
         <List spacing={1}>
           <ListItem>
-            <Link href="https://github.com/tarzan114" isExternal>
+            <Link href="https://github.com/tarnar114" isExternal>
               <Button
                 colorScheme="teal"
                 variant="ghost"

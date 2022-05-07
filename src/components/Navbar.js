@@ -70,7 +70,7 @@ const Navbar = (props) => {
           mt={{ base: 4, md: 0 }}
           justify="right"
         >
-          <Link href="https://github.com/tarzan114" isExternal>
+          <Link href="https://github.com/tarnar114" isExternal>
             <AiFillGithub size={28} />
           </Link>
           <Link
