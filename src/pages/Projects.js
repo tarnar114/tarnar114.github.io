@@ -3,7 +3,7 @@ import { GridItem } from "../components/GridItem";
 import Section from "../components/Section";
 import OHM from "../images/bobrossv2.jpg";
 import Mininet from '../images/Mininet.png'
-import bookMgmt from '../images/book_diary.jpg'
+import bookMgmt from '../images/books.jpg'
 const Projects = () => {
   return (
       <Section>
@@ -29,7 +29,7 @@ const Projects = () => {
           <GridItem
             children="Book Management System"
             href="https://github.com/tarnar114/bookRepo"
-            title="Book Management System"
+            title="Book Repo System"
             thumbnail={bookMgmt}/>
         </SimpleGrid>
         </Container>
