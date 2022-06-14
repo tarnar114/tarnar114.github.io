@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.83c9d66e.css",
-    "main.js": "/static/js/main.e6a9081d.js",
+    "main.js": "/static/js/main.1ea6408d.js",
     "static/media/m-plus-rounded-1c-all-500-normal.woff": "/static/media/m-plus-rounded-1c-all-500-normal.c87b1ce307b51041ca93.woff",
     "static/media/m-plus-1-all-400-normal.woff": "/static/media/m-plus-1-all-400-normal.0c4f1a6e84d31553e99d.woff",
     "static/media/bobrossv2.jpg": "/static/media/bobrossv2.f1c154809fed1382e4a1.jpg",
     "static/media/Mininet.png": "/static/media/Mininet.bdb9d602d2682fb83224.png",
     "static/media/raleway-all-300-normal.woff": "/static/media/raleway-all-300-normal.d7c5fb6e2548e0ab1e08.woff",
+    "static/media/books.jpg": "/static/media/books.acce3f847b8cc62872ec.jpg",
     "static/media/TanzirHossain.pdf": "/static/media/TanzirHossain.82463bc1eddaf3d1cb62.pdf",
     "static/media/m-plus-rounded-1c-55-500-normal.woff2": "/static/media/m-plus-rounded-1c-55-500-normal.b0d3ffac768587db1b26.woff2",
     "static/media/bobross.png": "/static/media/bobross.712f0d84c5bb65af1192.png",
@@ -250,10 +251,10 @@
     "index.html": "/index.html",
     "static/media/m-plus-1-57-400-normal.woff2": "/static/media/m-plus-1-57-400-normal.28ddc137b5b3c4865e8d.woff2",
     "main.83c9d66e.css.map": "/static/css/main.83c9d66e.css.map",
-    "main.e6a9081d.js.map": "/static/js/main.e6a9081d.js.map"
+    "main.1ea6408d.js.map": "/static/js/main.1ea6408d.js.map"
   },
   "entrypoints": [
     "static/css/main.83c9d66e.css",
-    "static/js/main.e6a9081d.js"
+    "static/js/main.1ea6408d.js"
   ]
 }
