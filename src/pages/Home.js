@@ -46,10 +46,8 @@ const Home = (props) => {
           About
         </Heading>
         <Text>
-         Hi, my name is Tanzir Hossain. I'm an aspiring software developer who is currently
-         studying for their Bachelor's in software engineering at Ontario Tech University. I hope to go into full stack development
-         but am also open to other types of programming. I love music, video gaming (mainly FFXIV), and a bit of cooking here and there.
-         I hope to improve my programming skills in the foreseeable future.
+         Hi, my name is Tanzir Hossain. I'm a recent Software Engineer Graduate at Ontario Tech University. 
+         Im skilled in multiple languages like python, C#, and multitude other programming languages and frameworks.
         </Text>
       </Box>
 

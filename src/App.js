@@ -15,7 +15,7 @@ function App() {
   return (
     <Box as='main' pb={8}>
       <Navbar />
-      <Container maxW="container.md" pt={20}>
+      <Container maxW="container.lg" pt={20}>
         <Box display="flex" justifyContent="center" mr={10} mb={4}>
           <Box>
             <Heading size="2xl" mt={2}>

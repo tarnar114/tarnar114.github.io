@@ -11,9 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
   <ChakraProvider theme={Theme}>
-    <React.StrictMode>
       <App />
-    </React.StrictMode>
   </ChakraProvider>
   </BrowserRouter>
 );

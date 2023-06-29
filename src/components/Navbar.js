@@ -25,7 +25,7 @@ const Navbar = (props) => {
       wrap="wrap"
       bg={useColorModeValue("#ffeecc", "#262f40")}
     >
-      <Container display="flex" maxW="container.md" wrap="wrap" p={1}>
+      <Container display="flex" maxW="container.lg" wrap="wrap" p={1}>
         <Flex align="center" mr={6}>
           <Link as={ReactRouterLink} to="/">
             <Heading as="h1" size="lg" letterSpacing="tighter">
