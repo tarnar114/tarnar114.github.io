@@ -12,11 +12,7 @@ import {
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { Link as ReactRouterLink } from "react-router-dom";
 import ThemeToggle from "./theme-toggle";
-import PDF from '../TanzirHossain.pdf'
 const Navbar = (props) => {
-  const resumeClick=()=>{
-    window.open(PDF,'_blank')
-  }
   return (
     <Box
       as="nav"
@@ -47,7 +43,7 @@ const Navbar = (props) => {
               Projects
             </Text>
           </Link>
-          <Link as="a" onClick={resumeClick}>
+          <Link as="a" href="https://drive.google.com/file/d/11AoNvF-yC7GY_bgiuf-eVXEcN_qbmAU-/view?usp=drive_link" isExternal >
             <Text fontSize="md" fontWeight={"semibold"}>
               Resume
             </Text>
