@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.262840e5.css",
-    "main.js": "/static/js/main.e09f4f14.js",
+    "main.js": "/static/js/main.b2d04557.js",
     "static/media/m-plus-rounded-1c-all-500-normal.woff": "/static/media/m-plus-rounded-1c-all-500-normal.c87b1ce307b51041ca93.woff",
     "static/media/m-plus-1-all-400-normal.woff": "/static/media/m-plus-1-all-400-normal.c38dc55a6d1a677dc2b8.woff",
     "static/media/biketheft.jpg": "/static/media/biketheft.30425663fe68e4a07c3e.jpg",
@@ -252,10 +252,10 @@
     "static/media/m-plus-1-57-400-normal.woff2": "/static/media/m-plus-1-57-400-normal.7968b7b72ed5f4427307.woff2",
     "index.html": "/index.html",
     "main.262840e5.css.map": "/static/css/main.262840e5.css.map",
-    "main.e09f4f14.js.map": "/static/js/main.e09f4f14.js.map"
+    "main.b2d04557.js.map": "/static/js/main.b2d04557.js.map"
   },
   "entrypoints": [
     "static/css/main.262840e5.css",
-    "static/js/main.e09f4f14.js"
+    "static/js/main.b2d04557.js"
   ]
 }
