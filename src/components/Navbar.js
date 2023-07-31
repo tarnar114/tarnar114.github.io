@@ -43,7 +43,7 @@ const Navbar = (props) => {
               Projects
             </Text>
           </Link>
-          <Link as="a" href="https://drive.google.com/file/d/11AoNvF-yC7GY_bgiuf-eVXEcN_qbmAU-/view?usp=drive_link" isExternal >
+          <Link as="a" href="https://drive.google.com/file/d/1KRZZCt0EvSpH-PLeYjme1vvzA24F1VrL/view?usp=drive_link" isExternal >
             <Text fontSize="md" fontWeight={"semibold"}>
               Resume
             </Text>
